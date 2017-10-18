@@ -1,0 +1,9 @@
+<templateSet group="C#">
+  <template name="aaa" value="[Test]&#10;public void $test_name$()&#10;{&#10;    // Arrange&#10;    $end$&#10;    &#10;    // Act&#10;    &#10;    //Assert&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="test_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,24 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="GotoSuperMethod" />
+      <action id="EditorCodeBlockEnd">
+        <abbreviation name="method" />
+      </action>
+      <action id="GotoClass" />
+      <action id="NavigateTo" />
+      <action id="GotoDeclaration" />
+      <action id="EditorCodeBlockStart" />
+      <action id="GotoTypeDeclaration" />
+      <action id="FileStructurePopup" />
+      <action id="RdExposingApiesNavigationAction" />
+      <action id="GotoFile" />
+      <action id="GotoImplementation" />
+      <action id="SearchEverywhere" />
+      <action id="ReSharperGotoImplementation" />
+      <action id="GotoAction" />
+      <action id="GotoSymbol" />
+      <action id="ShowUsages" />
+    </abbreviations>
+  </component>
+</application>
