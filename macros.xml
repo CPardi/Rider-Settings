@@ -1,8 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="Comment/Uncomment">
-      <action id="CommentByLineComment" />
-      <action id="EditorUp" />
-    </macro>
-  </component>
-</application>
